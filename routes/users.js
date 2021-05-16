@@ -7,10 +7,7 @@ const jwt = require("jsonwebtoken");
 const { check, validationResult } = require("express-validator");
 require("dotenv").config();
 const User = require("../models/User");
-var cors = require("cors");
-var app = express();
 
-app.use(cors());
 // To set up check before posting
 //stackoverflow.com/questions/53527674/node-express-how-to-check-post-request-body-syntax-and-response-error
 

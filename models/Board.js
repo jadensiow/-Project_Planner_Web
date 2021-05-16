@@ -1,9 +1,5 @@
 const { Schema, model } = require("mongoose");
 var express = require("express");
-var cors = require("cors");
-var app = express();
-
-app.use(cors());
 
 const BoardSchema = new Schema(
   {
@@ -47,7 +43,7 @@ const BoardSchema = new Schema(
           default: "admin",
         },
         avatar: {
-          type: String,            
+          type: String,
           default:
             "https://www.gravatar.com/avatar/94d093eda664addd6e450d7e9881bcad?s=32&d=identicon&r=PG",
         },

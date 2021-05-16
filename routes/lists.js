@@ -7,10 +7,7 @@ const { check, validationResult } = require("express-validator");
 const User = require("../models/User");
 const Board = require("../models/Board");
 const List = require("../models/List");
-var cors = require("cors");
-var app = express();
 
-app.use(cors());
 // Add a list
 router.post(
   "/",
@@ -75,8 +72,7 @@ router.get("/:id", auth, async (req, res) => {
     if (!list) {
       return res.status(404).json({ msg: "List not found" });
     }
-  
-  
+
     res.json(list);
   } catch (err) {
     console.error(err.message);

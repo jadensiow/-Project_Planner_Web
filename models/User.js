@@ -1,10 +1,4 @@
 const { Schema, model } = require("mongoose");
-var express = require("express");
-var cors = require("cors");
-const { Assignment } = require("@material-ui/icons");
-var app = express();
-
-app.use(cors());
 
 const UserSchema = new Schema({
   name: {
