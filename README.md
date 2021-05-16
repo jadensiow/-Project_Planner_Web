@@ -12,15 +12,15 @@ An all in one app for all the projects for yourself or your team to have an easi
 
 ### Features
 
-- Users can create their own projects, search and add different teammates into the project.
-- ![Animation6](https://user-images.githubusercontent.com/78722564/118404351-2e71c880-b6a5-11eb-8846-b6ecfd1749ac.gif)
-
+- Users can create their own projects, search and add different teammates into the project
 - Users are able to add in different title and points to do
+![Animation6](https://user-images.githubusercontent.com/78722564/118404351-2e71c880-b6a5-11eb-8846-b6ecfd1749ac.gif)
+
+- Users are able to assign task to specific individual
 ![Animation7](https://user-images.githubusercontent.com/78722564/118404355-2fa2f580-b6a5-11eb-8ec3-149d6988048b.gif)
 
 - Users are able to join a chatroom and discuss their ideas
-
-- Users are able to assign task to specific individual
+![Animation8](https://user-images.githubusercontent.com/78722564/118404440-6bd65600-b6a5-11eb-9e12-9e2793121132.gif)
 
 - Users are able to check the project activity history
 ![imageproject](https://user-images.githubusercontent.com/78722564/118404325-100bcd00-b6a5-11eb-9c1d-5e8b0ecc84d2.png)
@@ -30,7 +30,7 @@ An all in one app for all the projects for yourself or your team to have an easi
 
 ## Technologies used
 
-ReactJS, Redux, Socket.io, JWT, Express, MongoDB and NodeJs
+ReactJS, Redux, Socket.io, JWT, Framer-motion, Material UI, Fusioncharts, Gravatar, Express, MongoDB and NodeJs
 API used: Unsplash
 
 ## Install
