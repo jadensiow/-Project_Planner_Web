@@ -30,7 +30,7 @@ An all in one app for all the projects for yourself or your team to have an easi
 
 ## Technologies used
 
-ReactJS, Redux, Socket.io, JWT, Framer-motion, Material UI, Fusioncharts, Gravatar, Express, MongoDB and NodeJs
+ReactJS, Redux, Socket.io, JWT, Framer-motion, Material UI, Fusioncharts, Gravatar, Express, MongoDB and NodeJs  
 API used: Unsplash
 
 ## Install
