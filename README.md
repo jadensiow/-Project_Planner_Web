@@ -19,6 +19,8 @@ An all in one app for all the projects for yourself or your team to have an easi
 
 - Users are able to assign task to specific individual
 
+- Users are able to check the project activity history
+
 - Users are able to check the project overview by clicking the gantt chart
 - Users are also to choose a new background by clicking random background
 
